@@ -41,7 +41,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/Devtree-Frontend.git # Reemplaza con la URL real de tu repositorio
+    git clone https://github.com/alejav0240/Devtree-Frontend.git # Reemplaza con la URL real de tu repositorio
     cd Devtree-Frontend
     ```
 
